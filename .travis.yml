@@ -1,3 +1,4 @@
+# Travis CI, GCC on Linux & OSX
 language: c
 
 matrix:
